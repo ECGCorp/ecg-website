@@ -1,0 +1,14 @@
+# macOS clutter
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Build output
+production/
+
+# Node dependencies
+node_modules/
+# Optional: commit this for exact dependency versions
+package-lock.json  
